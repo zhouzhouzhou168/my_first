@@ -3,5 +3,5 @@
 int main()
 {
 
-    printf("first3");
+    printf("first");
 }
