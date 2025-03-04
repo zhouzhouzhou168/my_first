@@ -6,5 +6,6 @@ int main()
     int a;
     int c;
     int e;
+    int ddd;
     int d;
 }
